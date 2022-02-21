@@ -11,7 +11,7 @@ find_package(BearLibTerminal REQUIRED)
 include_directories(SYSTEM ${BLT_INCLUDE_DIRS})
 # link
 
-add_executable(roguelike src/main.cpp src/GameObject.cpp src/GameObject.h src/MovableObject.h src/Character.h src/Hero.cpp src/Hero.h src/ActionAnalyzer.cpp src/ActionAnalyzer.h src/LevelMap.cpp src/LevelMap.h)
+add_executable(roguelike src/main.cpp src/GameObject.cpp src/GameObject.h src/MovableObject.h src/Character.h src/Hero.cpp src/Hero.h src/ActionAnalyzer.cpp src/ActionAnalyzer.h src/LevelMap.cpp src/LevelMap.h src/Command/ICommand.h)
 
 
 target_link_libraries(${PROJECT_NAME} ${BLT_LIBRARIES})

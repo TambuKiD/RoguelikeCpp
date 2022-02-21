@@ -1,0 +1,8 @@
+//
+// Created by 1 on 22.02.2022.
+//
+
+#ifndef ROGUELIKE_MACROCOMMAND_H
+#define ROGUELIKE_MACROCOMMAND_H
+
+#endif //ROGUELIKE_MACROCOMMAND_H

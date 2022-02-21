@@ -93,6 +93,9 @@
 		<Unit filename="F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Character.h">
 			<Option target="roguelike"/>
 		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Command/ICommand.h">
+			<Option target="roguelike"/>
+		</Unit>
 		<Unit filename="F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.cpp">
 			<Option target="roguelike"/>
 		</Unit>
