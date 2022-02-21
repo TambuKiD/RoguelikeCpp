@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="roguelike"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CMake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roguelike">
+				<Option output="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/roguelike.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/DANIL/Projects/roguelike/kiselev.danil-game/lib/BearLibTerminal/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 roguelike"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roguelike/fast">
+				<Option output="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/roguelike.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/DANIL/Projects/roguelike/kiselev.danil-game/lib/BearLibTerminal/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 roguelike/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/ActionAnalyzer.cpp">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/ActionAnalyzer.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Character.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.cpp">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.cpp">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.cpp">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/MovableObject.h">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/src/main.cpp">
+			<Option target="roguelike"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/DANIL/Projects/roguelike/kiselev.danil-game/CMake/FindBearLibTerminal.cmake">
+			<Option virtualFolder="CMake Files\CMake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

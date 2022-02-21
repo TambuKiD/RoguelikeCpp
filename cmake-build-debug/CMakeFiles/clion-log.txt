@@ -1,0 +1,15 @@
+"E:\CLion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\DANIL\Projects\roguelike\kiselev.danil-game
+-- 64 bit system detected.
+CMake Warning (dev) at E:/CLion/CLion 2021.1.2/bin/cmake/win/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake:426 (message):
+  The package name passed to `find_package_handle_standard_args` (BLT) does
+  not match the name of the calling package (BearLibTerminal).  This can lead
+  to problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  CMake/FindBearLibTerminal.cmake:52 (find_package_handle_standard_args)
+  CMakeLists.txt:9 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug
