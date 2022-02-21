@@ -22,59 +22,75 @@ wchar.h
 sstream
 -
 
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/ActionAnalyzer.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/ActionAnalyzer.cpp
+ActionAnalyzer.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/ActionAnalyzer.h
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/ActionAnalyzer.h
 BearLibTerminal.h
 -
 Hero.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.h
 LevelMap.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.h
 
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Character.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Character.h
 utility
 -
 MovableObject.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/MovableObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/MovableObject.h
 
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.cpp
+GameObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.h
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.h
 string
 -
 
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.h
-string
--
-Character.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Character.h
-BearLibTerminal.h
--
-
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.h
-MovableObject.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/MovableObject.h
-BearLibTerminal.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/BearLibTerminal.h
-
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/MovableObject.h
-GameObject.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.h
-iostream
--
-
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/main.cpp
-BearLibTerminal.h
--
-iostream
--
-GameObject.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.h
-MovableObject.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/MovableObject.h
-Character.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Character.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.cpp
 Hero.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.h
-ActionAnalyzer.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/ActionAnalyzer.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.h
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.h
+string
+-
+Character.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Character.h
+BearLibTerminal.h
+-
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.cpp
 LevelMap.h
-F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.h
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.h
+MovableObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/MovableObject.h
+BearLibTerminal.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/BearLibTerminal.h
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/MovableObject.h
+GameObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.h
+iostream
+-
+
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/main.cpp
+BearLibTerminal.h
+-
+iostream
+-
+GameObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.h
+MovableObject.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/MovableObject.h
+Character.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Character.h
+Hero.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.h
+ActionAnalyzer.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/ActionAnalyzer.h
+LevelMap.h
+F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.h
 

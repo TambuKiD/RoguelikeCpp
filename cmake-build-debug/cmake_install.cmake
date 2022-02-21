@@ -1,4 +1,4 @@
-# Install script for directory: F:/DANIL/Projects/roguelike/kiselev.danil-game
+# Install script for directory: F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

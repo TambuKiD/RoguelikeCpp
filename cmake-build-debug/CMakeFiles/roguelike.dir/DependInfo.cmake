@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/DANIL/Projects/roguelike/kiselev.danil-game/src/ActionAnalyzer.cpp" "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj"
-  "F:/DANIL/Projects/roguelike/kiselev.danil-game/src/GameObject.cpp" "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/CMakeFiles/roguelike.dir/src/GameObject.cpp.obj"
-  "F:/DANIL/Projects/roguelike/kiselev.danil-game/src/Hero.cpp" "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/CMakeFiles/roguelike.dir/src/Hero.cpp.obj"
-  "F:/DANIL/Projects/roguelike/kiselev.danil-game/src/LevelMap.cpp" "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj"
-  "F:/DANIL/Projects/roguelike/kiselev.danil-game/src/main.cpp" "F:/DANIL/Projects/roguelike/kiselev.danil-game/cmake-build-debug/CMakeFiles/roguelike.dir/src/main.cpp.obj"
+  "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/ActionAnalyzer.cpp" "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj"
+  "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/GameObject.cpp" "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/CMakeFiles/roguelike.dir/src/GameObject.cpp.obj"
+  "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/Hero.cpp" "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/CMakeFiles/roguelike.dir/src/Hero.cpp.obj"
+  "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/LevelMap.cpp" "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj"
+  "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/src/main.cpp" "F:/DANIL/Projects/roguelike/sleep is a cake/RoguelikeCpp/cmake-build-debug/CMakeFiles/roguelike.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

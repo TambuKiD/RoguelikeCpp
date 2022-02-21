@@ -62,10 +62,10 @@ RM = "E:\CLion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\DANIL\Projects\roguelike\kiselev.danil-game
+CMAKE_SOURCE_DIR = "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug
+CMAKE_BINARY_DIR = "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/roguelike.dir/clean
 CMakeFiles/roguelike.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\roguelike.dir\build.make CMakeFiles/roguelike.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\roguelike.dir\build.make CMakeFiles/roguelike.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target roguelike"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target roguelike"
 .PHONY : CMakeFiles/roguelike.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/roguelike.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/roguelike.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/roguelike.dir/rule
 
 # Convenience name for target.

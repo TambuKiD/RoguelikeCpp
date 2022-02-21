@@ -61,10 +61,10 @@ RM = "E:\CLion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\DANIL\Projects\roguelike\kiselev.danil-game
+CMAKE_SOURCE_DIR = "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug
+CMAKE_BINARY_DIR = "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/roguelike.dir/depend.make
@@ -78,72 +78,72 @@ include CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/main.cpp.obj: CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/main.cpp.obj: CMakeFiles/roguelike.dir/includes_CXX.rsp
 CMakeFiles/roguelike.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/roguelike.dir/src/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\main.cpp.obj -c F:\DANIL\Projects\roguelike\kiselev.danil-game\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/roguelike.dir/src/main.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\main.cpp.obj -c "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\main.cpp"
 
 CMakeFiles/roguelike.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/roguelike.dir/src/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DANIL\Projects\roguelike\kiselev.danil-game\src\main.cpp > CMakeFiles\roguelike.dir\src\main.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\main.cpp" > CMakeFiles\roguelike.dir\src\main.cpp.i
 
 CMakeFiles/roguelike.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/roguelike.dir/src/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DANIL\Projects\roguelike\kiselev.danil-game\src\main.cpp -o CMakeFiles\roguelike.dir\src\main.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\main.cpp" -o CMakeFiles\roguelike.dir\src\main.cpp.s
 
 CMakeFiles/roguelike.dir/src/GameObject.cpp.obj: CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/GameObject.cpp.obj: CMakeFiles/roguelike.dir/includes_CXX.rsp
 CMakeFiles/roguelike.dir/src/GameObject.cpp.obj: ../src/GameObject.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/roguelike.dir/src/GameObject.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\GameObject.cpp.obj -c F:\DANIL\Projects\roguelike\kiselev.danil-game\src\GameObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/roguelike.dir/src/GameObject.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\GameObject.cpp.obj -c "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\GameObject.cpp"
 
 CMakeFiles/roguelike.dir/src/GameObject.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/roguelike.dir/src/GameObject.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DANIL\Projects\roguelike\kiselev.danil-game\src\GameObject.cpp > CMakeFiles\roguelike.dir\src\GameObject.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\GameObject.cpp" > CMakeFiles\roguelike.dir\src\GameObject.cpp.i
 
 CMakeFiles/roguelike.dir/src/GameObject.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/roguelike.dir/src/GameObject.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DANIL\Projects\roguelike\kiselev.danil-game\src\GameObject.cpp -o CMakeFiles\roguelike.dir\src\GameObject.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\GameObject.cpp" -o CMakeFiles\roguelike.dir\src\GameObject.cpp.s
 
 CMakeFiles/roguelike.dir/src/Hero.cpp.obj: CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/Hero.cpp.obj: CMakeFiles/roguelike.dir/includes_CXX.rsp
 CMakeFiles/roguelike.dir/src/Hero.cpp.obj: ../src/Hero.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/roguelike.dir/src/Hero.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\Hero.cpp.obj -c F:\DANIL\Projects\roguelike\kiselev.danil-game\src\Hero.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/roguelike.dir/src/Hero.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\Hero.cpp.obj -c "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\Hero.cpp"
 
 CMakeFiles/roguelike.dir/src/Hero.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/roguelike.dir/src/Hero.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DANIL\Projects\roguelike\kiselev.danil-game\src\Hero.cpp > CMakeFiles\roguelike.dir\src\Hero.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\Hero.cpp" > CMakeFiles\roguelike.dir\src\Hero.cpp.i
 
 CMakeFiles/roguelike.dir/src/Hero.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/roguelike.dir/src/Hero.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DANIL\Projects\roguelike\kiselev.danil-game\src\Hero.cpp -o CMakeFiles\roguelike.dir\src\Hero.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\Hero.cpp" -o CMakeFiles\roguelike.dir\src\Hero.cpp.s
 
 CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj: CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj: CMakeFiles/roguelike.dir/includes_CXX.rsp
 CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj: ../src/ActionAnalyzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.obj -c F:\DANIL\Projects\roguelike\kiselev.danil-game\src\ActionAnalyzer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.obj -c "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\ActionAnalyzer.cpp"
 
 CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DANIL\Projects\roguelike\kiselev.danil-game\src\ActionAnalyzer.cpp > CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\ActionAnalyzer.cpp" > CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.i
 
 CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/roguelike.dir/src/ActionAnalyzer.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DANIL\Projects\roguelike\kiselev.danil-game\src\ActionAnalyzer.cpp -o CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\ActionAnalyzer.cpp" -o CMakeFiles\roguelike.dir\src\ActionAnalyzer.cpp.s
 
 CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj: CMakeFiles/roguelike.dir/flags.make
 CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj: CMakeFiles/roguelike.dir/includes_CXX.rsp
 CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj: ../src/LevelMap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\LevelMap.cpp.obj -c F:\DANIL\Projects\roguelike\kiselev.danil-game\src\LevelMap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/roguelike.dir/src/LevelMap.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\roguelike.dir\src\LevelMap.cpp.obj -c "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\LevelMap.cpp"
 
 CMakeFiles/roguelike.dir/src/LevelMap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/roguelike.dir/src/LevelMap.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DANIL\Projects\roguelike\kiselev.danil-game\src\LevelMap.cpp > CMakeFiles\roguelike.dir\src\LevelMap.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\LevelMap.cpp" > CMakeFiles\roguelike.dir\src\LevelMap.cpp.i
 
 CMakeFiles/roguelike.dir/src/LevelMap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/roguelike.dir/src/LevelMap.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DANIL\Projects\roguelike\kiselev.danil-game\src\LevelMap.cpp -o CMakeFiles\roguelike.dir\src\LevelMap.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\src\LevelMap.cpp" -o CMakeFiles\roguelike.dir\src\LevelMap.cpp.s
 
 # Object files for target roguelike
 roguelike_OBJECTS = \
@@ -166,7 +166,7 @@ roguelike.exe: ../lib/BearLibTerminal/Windows64/BearLibTerminal.dll
 roguelike.exe: CMakeFiles/roguelike.dir/linklibs.rsp
 roguelike.exe: CMakeFiles/roguelike.dir/objects1.rsp
 roguelike.exe: CMakeFiles/roguelike.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable roguelike.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable roguelike.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\roguelike.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -179,6 +179,6 @@ CMakeFiles/roguelike.dir/clean:
 .PHONY : CMakeFiles/roguelike.dir/clean
 
 CMakeFiles/roguelike.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" F:\DANIL\Projects\roguelike\kiselev.danil-game F:\DANIL\Projects\roguelike\kiselev.danil-game F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug F:\DANIL\Projects\roguelike\kiselev.danil-game\cmake-build-debug\CMakeFiles\roguelike.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp" "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp" "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug" "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug" "F:\DANIL\Projects\roguelike\sleep is a cake\RoguelikeCpp\cmake-build-debug\CMakeFiles\roguelike.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/roguelike.dir/depend
 
